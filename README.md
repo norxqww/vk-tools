@@ -6,7 +6,7 @@ Two modes of operation: checking the availability of an ID by the list (words.js
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ваш-репозиторий/vk_id_checker.git
+   git clone https://github.com/your_repo/vk_id_checker.git
    cd vk_id_checker
 2. Install dependencies:
    ```bash
